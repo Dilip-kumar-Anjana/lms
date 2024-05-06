@@ -29,7 +29,7 @@ This project is a Library Management System designed to cater to the needs of us
 - Operating System: Linux or Windows Server
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/username/library-management-system.git`
+1. Clone the repository: `[git clone https://github.com/Dilip-kumar-Anjana/lms.git]`
 2. Import the database schema from `database/schema.sql`
 3. Configure database credentials in `config.php`
 4. Run the application on a web server (e.g., Apache, Nginx)
