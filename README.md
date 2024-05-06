@@ -51,6 +51,4 @@ This project is a Library Management System designed to cater to the needs of us
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to customize this README file according to your project's specific details and requirements.
